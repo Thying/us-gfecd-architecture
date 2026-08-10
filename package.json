@@ -1,0 +1,21 @@
+{
+  "name": "@us-gfecd/architecture",
+  "version": "1.0.1",
+  "description": "US-GFECD architecture documentation",
+  "main": "README.md",
+  "files": [
+    "README.md",
+    "image.png"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Thying/US-GFECD-architecture"
+  },
+  "keywords": [
+    "architecture",
+    "realtime",
+    "socket.io"
+  ],
+  "author": "Thying",
+  "license": "MIT"
+}
