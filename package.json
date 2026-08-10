@@ -5,6 +5,7 @@
   "main": "README.md",
   "files": [
     "README.md",
+    "README.ru.md",
     "image.png"
   ],
   "repository": {
